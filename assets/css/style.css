@@ -46,6 +46,7 @@ body {
   height: auto;
   vertical-align: bottom;
   font-size: 56px;
+  font: bold;
 }
 
 .landing-navbar {
